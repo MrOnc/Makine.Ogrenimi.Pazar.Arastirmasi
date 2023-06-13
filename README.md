@@ -1,2 +1,2 @@
 # Makine.Ogrenimi.Pazar.Arastirmasi
-Burma ülkesinde faaliyetini sürdüren bir istatistik ve reklam ajansı olası üretici, dağıtıcı ve parakende satıcı müşterilerine bilgi sağlayabilmek.
+A statistical and advertising agency operating in the country of Myanmar to provide information to prospective manufacturers, distributors and retailer customers.
